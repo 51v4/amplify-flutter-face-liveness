@@ -25,9 +25,6 @@ flutter:
       android:
         package: br.com.webeleven.face_liveness_detector
         pluginClass: FaceLivenessDetectorPlugin
-      ios:
-        pluginClass: FaceLivenessDetectorPlugin
-        podspec: ios/face_liveness_detector.podspec
 
 topics:
   - rekognition
